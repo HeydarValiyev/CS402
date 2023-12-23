@@ -51,21 +51,21 @@
 // data.shift(null)
 // console.log(data);
 
-const students = [
-    {
-        id : 1,
-        age : 232,
-        name : 'heyder',
-        surname : 'veliyev'
-    },
-    {
-        id : 2,
-        age : 242,
-        name : 'heyder',
-        surname : 'qarayev'
-    }
+// const students = [
+//     {
+//         id : 1,
+//         age : 232,
+//         name : 'heyder',
+//         surname : 'veliyev'
+//     },
+//     {
+//         id : 2,
+//         age : 242,
+//         name : 'heyder',
+//         surname : 'qarayev'
+//     }
     
-]
+// ]
 // students.map((item,index) =>console.log(item))
 // students.map((item,index) =>console.log(item.name))
 // students.map((item,index) =>console.log(item.surname))
@@ -89,3 +89,5 @@ const students = [
 
 // const result = students.findLast(item => item.name === 'heyder')
 // console.log(result);
+
+
